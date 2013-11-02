@@ -8,7 +8,7 @@ The Test WebApp runs on a web server written in [NodeJS](http://nodejs.org/) tha
 
 ## Todo
 - The WebApp needs to be able to be a widget that can be included on any site.
-- Have an API for different communication protocols (WebSockets, long-polling, XMPP) etc.
+- Have an API or Modular communication layer for diffrent protocols (WebSockets, WebRTC, long-polling, XMPP) etc.
 
 ## License
 This software is released under the MIT license:
