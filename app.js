@@ -52,5 +52,5 @@ app.get('/sign_out', function (req, res) {
     res.redirect('/sign_in');
 });
 
-app.listen(9677); // XMPP
+app.listen(9677);
 util.puts("Server running at http://0.0.0.0:9677/ in " + app.set("env") + " mode.");
